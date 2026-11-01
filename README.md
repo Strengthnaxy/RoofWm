@@ -107,7 +107,7 @@ zig build --build-file bindings/zig/build.zig
 Layout
 text
 
-RoofWm/
+```RoofWm/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/bug_report.md
 │   ├── PULL_REQUEST_TEMPLATE.md
@@ -123,7 +123,7 @@ RoofWm/
 ├── Cargo.toml
 ├── LICENSE
 └── README.md
-
+```
 Contributing
 
     fork
