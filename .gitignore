@@ -1,0 +1,14 @@
+/target
+**/*.rs.bk
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+result/
+
+bindings/cpp/build/
+bindings/zig/zig-cache/
+bindings/zig/zig-out/
+bindings/csharp/bin/
+bindings/csharp/obj/
