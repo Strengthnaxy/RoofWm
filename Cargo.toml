@@ -20,7 +20,7 @@ smithay = { version = "0.4", features = [
 ] }
 calloop = "0.13"
 wayland-server = "0.31"
-wayland-protocols = { version = "0.31", features = ["server", "staging", "unstable"] }
+wayland-protocols = { version = "0.32", features = ["server", "staging", "unstable"] }
 tracing = "0.1"
 tracing-subscriber = "0.3"
 anyhow = "1"
