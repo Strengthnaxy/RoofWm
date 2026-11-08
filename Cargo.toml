@@ -9,7 +9,7 @@ repository = "https://github.com/YOUR_NAME/RoofWm"
 readme = "README.md"
 
 [dependencies]
-smithay = { version = "0.4", features = [
+smithay = { version = "0.7", features = [
     "backend_drm",
     "backend_gbm",
     "backend_libinput",
