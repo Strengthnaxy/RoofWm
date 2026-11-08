@@ -18,7 +18,7 @@ smithay = { version = "0.4", features = [
     "renderer_gl",
     "wayland_frontend",
 ] }
-calloop = "0.13"
+calloop = "0.14"
 wayland-server = "0.31"
 wayland-protocols = { version = "0.31", features = ["server", "staging", "unstable"] }
 tracing = "0.1"
